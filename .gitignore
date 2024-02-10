@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore environment-specific settings
+.env
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore editor-specific files
+.vscode/
+*.swp
